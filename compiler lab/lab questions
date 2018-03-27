@@ -1,0 +1,18 @@
+1. Write a simple lex program that will copy the standard input to standard output.
+
+2. Write a simple lex program that recognizes different type of english words. We start by listing  a set of verbs to recognise
+                  is      an     are     were     was     be    being    been    do    does     did     will
+                  would   should can     could    has     have  had       go
+
+3. Write a lex program to identify c operator keyword and identifier.
+
+4. write a lex program that will count the no of vowels and consonents.
+
+5.To count the total no of lines, Words, Characters, symbols, in a C program.
+
+6.Write a program to count the number of comments in a C program and remove and copy the program into a new file.
+
+7. write a program to evaluate arithmetic expressions using +,-,*,/ symbols.(lex and yacc)
+
+8. write a yacc program to recognize a valid variable which starts with a letter followed by letter or digit.
+9. write a yacc program to recognize the given strings aaab,abbb,ab are accepted by the grammer a^nb^n ,(n>0) or not.
